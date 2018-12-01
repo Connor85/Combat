@@ -50,7 +50,7 @@ Webpage
 
 ## Setup/Installation Requirements
 
-1. Clone this repository: https://github.com/nelsonsbrian/superSmashHeroes
+1. Clone this repository: https://github.com/Connor85/Combat
 2. Open the command line--and navigate into the repository.
 3. On your browser, open the index.html and enjoy!
 
