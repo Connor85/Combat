@@ -8,6 +8,9 @@
 
 An arcade style fighting game that uses Marvel super heroes as it's characters. Play can choose their desired characters and face off against another player in an 'mortal-combat' style arcade game. Each hero has a basic punching attack and 2 other special attacks. The hero can move left and right and block incoming attacks in real-time. First player to knock the other player out, or whomever has the most hit points remaining at the end of the match is the winner.
 
+View the deployed application here: [Demo]https://nelsonsbrian.github.io/Marvel-Combat/)
+
+
 ### Specs
 
 Webpage Screenshot
